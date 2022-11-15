@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Dvid Wang', // Title for your website.
+    title: 'David Wang', // Title for your website.
     tagline: 'Hard working, Love technology.',
     profilePhoto: 'img/profile.png',
     url: 'https://dkiller6893.github.io', // Your website URL
